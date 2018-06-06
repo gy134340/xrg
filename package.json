@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "generate redux action",
   "main": "index.js",
+  "bin": {
+    "xrg": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
