@@ -1,0 +1,27 @@
+{
+  "name": "xrg",
+  "version": "1.0.0",
+  "description": "generate redux action",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gy134340/xrg.git"
+  },
+  "keywords": [
+    "redux",
+    "action",
+    "generate"
+  ],
+  "author": "https://github.com/gy134340",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gy134340/xrg/issues"
+  },
+  "homepage": "https://github.com/gy134340/xrg#readme",
+  "dependencies": {
+    "inquirer": "^6.0.0"
+  }
+}
