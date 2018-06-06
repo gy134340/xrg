@@ -1,6 +1,6 @@
 ### Tiny command line tool to generate redux action 
 
-```js
+```
 // input your prefix: 'app/foo'
 
 // input your action: 'fetch'
@@ -16,11 +16,11 @@ app/foo/fetch_fail
 
 ```
 
-![img](./public/demo.png)
+![img](./public/demo_1.png?test=1)
 
 ### How to use?
 
-npm install -g xrg
+`npm install -g xrg`
 
 
 ### Why xrg?
