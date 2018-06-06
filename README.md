@@ -1,4 +1,4 @@
-Tiny tool to generate redux action, 
+### Tiny command line tool to generate redux action 
 
 ```js
 // input your prefix: 'app/foo'
@@ -18,3 +18,11 @@ app/foo/fetch_fail
 
 ![img](./public/demo.png)
 
+### How to use?
+
+npm install -g xrg
+
+
+### Why xrg?
+
+x(because it's a less used letter in English) + redux + generate = xrg
